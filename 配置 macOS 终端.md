@@ -8,7 +8,7 @@ https://medium.com/@jackklpan/make-mac-terminal-app-beautiful-and-productive-213
 
 ## 二、个人配置
 
-![image-20250616183645622](/Users/admin/Documents/配置电脑/image-20250616183645622.png)
+![image-20250616183645622](./image-20250616183645622.png)
 
 ## 三、配置文件
 
